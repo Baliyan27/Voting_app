@@ -14,10 +14,6 @@ This guide covers the steps to:
 - Connect and manage your Kubernetes cluster with Argo CD.
 
 
-## Architecture
-
-![Architecture diagram](k8s-kind-voting-app.png)
-
 ## Observability
 
 ![Grafana diagram](grafana.png)
